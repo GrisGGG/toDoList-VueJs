@@ -109,5 +109,10 @@ ul{
     display: flex;
     align-items: flex-start;
     color: #272727;
-    
+
+}
+.delete-btn{
+    background-color: blue;
+    width: 10px;
+    height: 10px;
 }
